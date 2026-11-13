@@ -2,7 +2,7 @@
 // Paste your real URLs between the quotes. Leave a value empty ("")
 // to keep the button as a non-navigating placeholder.
 const LINKS = {
-  admin: "https://habalgo-admin-pied.vercel.app",        // e.g. "admin/login.html"
+  admin: "https://habalgo-admin-jzs.vercel.app",        // e.g. "admin/login.html"
   riderLogin: "https://habalgo-login.vercel.app/#login"    // e.g. "rider/login.html"
 };
 
